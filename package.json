@@ -1,0 +1,25 @@
+{
+    "name": "ws.io",
+    "version": "0.0.1",
+    "author": "fillano <fillano.feng@gmail.com>",
+    "contributors": [
+        {
+            "name": "Fillano Feng",
+            "email": "fillano.feng@gmail.com"
+        }
+    ],
+    "main": "./lib/ws.io",
+    "description": "a simple wrap for ws to make it acts more like Socket.IO",
+    "keywords": [
+        "WebSocket",
+        "ws",
+        "Socket.IO"
+    ],
+    "dependencies": [
+        {"ws": "0.4.21"}
+    ],
+    "license": "MIT",
+    "engines": [
+        {"node": ">=0.8"}
+    ]
+}
