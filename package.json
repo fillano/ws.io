@@ -15,11 +15,11 @@
         "ws",
         "Socket.IO"
     ],
-    "dependencies": [
-        {"ws": "0.4.21"}
-    ],
+    "dependencies": {
+        "ws": ">=0.4.21"
+    },
     "license": "MIT",
-    "engines": [
-        {"node": ">=0.8"}
-    ]
+    "engines": {
+        "node": ">=0.8"
+    }
 }
